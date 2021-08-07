@@ -1,0 +1,12 @@
+Divisi WebDev
+1. Git dan Github
+2. HTML
+3. CSS
+
+Divisi Programming
+1. C++
+2. GUI
+
+Divisi Robotics
+1. Rangkaian Dasar
+2. Komponen Dasar
