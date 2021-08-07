@@ -17,3 +17,7 @@ Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+
+Jumlah Anggota
+Kelas 10:  7 orang
+Kelas 11: 17 orang
