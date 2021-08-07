@@ -2,7 +2,7 @@ Divisi WebDev
 1. Git dan Github
 2. HTML
 3. CSS
-4. SCSS 
+4. SCSS / SASS
 5. Javascript
 6. Belajar PHP
 7. Belajar CI3
@@ -21,3 +21,6 @@ Divisi Robotics
 Jumlah Anggota
 Kelas 10:  7 orang
 Kelas 11: 17 orang
+
+Bayar kas 5.000 seminggu, 20.000 sebulan
+bayarnya nanya ihzra pake apa oi gopay ovo transfer gimana 
