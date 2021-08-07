@@ -5,7 +5,6 @@ Divisi WebDev
 4. SCSS 
 5. Javascript
 6. Belajar PHP
-7. Belajar CI3
 
 Divisi Programming
 1. C++
