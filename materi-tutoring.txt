@@ -16,3 +16,5 @@ Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+
+Bayar kas
