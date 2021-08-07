@@ -2,11 +2,14 @@ Divisi WebDev
 1. Git dan Github
 2. HTML
 3. CSS
+4. Javascript
 
 Divisi Programming
 1. C++
 2. GUI
+3. Python
 
 Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
+3. Mikrokontroller
