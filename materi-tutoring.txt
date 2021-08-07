@@ -13,7 +13,8 @@ Divisi Programming
 3. Python
 4. Flutter
 
-Divisi Robotics
+Divisi Robotics 
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+4. LTA :D
