@@ -5,14 +5,16 @@ Divisi WebDev
 4. Javascript
 5. Belajar PHP
 6. Belajar CI3
+7. Laravel
 
 Divisi Programming
 1. C++
 2. GUI
 3. Python
-4. Flutter
+4. React Native
 
 Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+4. Arduino
