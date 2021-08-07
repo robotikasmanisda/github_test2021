@@ -12,6 +12,7 @@ Divisi Programming
 2. GUI
 3. Python
 4. Flutter
+5. belajar membuat game
 
 Divisi Robotics
 1. Rangkaian Dasar
