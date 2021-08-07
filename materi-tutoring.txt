@@ -3,11 +3,14 @@ Divisi WebDev
 2. HTML
 3. CSS
 4. Javascript
+5. Belajar PHP
+6. Belajar CI3
 
 Divisi Programming
 1. C++
 2. GUI
 3. Python
+4. Flutter
 
 Divisi Robotics
 1. Rangkaian Dasar
