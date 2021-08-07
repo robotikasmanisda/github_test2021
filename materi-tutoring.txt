@@ -2,10 +2,11 @@ Divisi WebDev
 1. Git dan Github
 2. HTML
 3. CSS
-4. SCSS 
-5. Javascript
-6. Belajar PHP
-7. Belajar CI3
+4. SCSS
+5. SASS
+6. Javascript
+7. Belajar PHP
+8. Belajar CI3
 
 Divisi Programming
 1. C++
