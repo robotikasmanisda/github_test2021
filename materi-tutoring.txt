@@ -5,8 +5,7 @@ Divisi WebDev
 4. SCSS / SASS
 5. Javascript
 6. Belajar PHP
-7. Belajar CI3
-8. Belajar Laravel 8
+7. Belajar Laravel 8
 
 Divisi Programming
 1. C++
