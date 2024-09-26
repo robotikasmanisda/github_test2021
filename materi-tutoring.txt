@@ -17,6 +17,7 @@ Divisi Robotics
 1. Rangkaian Dasar
 2. Komponen Dasar
 3. Mikrokontroller
+4. Oke mangtap blom bisa
 
 Jumlah Anggota
 Kelas 10:  7 orang
